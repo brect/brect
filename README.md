@@ -26,7 +26,7 @@
 ## Hey There, I'm from Brazil! 🇧🇷  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-<a href="https://www.linkedin.com/in/jpgiarrante/">
+<a href="https://www.linkedin.com/in/blimas/">
   <img align="left" alt="Bruno Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/brect">
@@ -50,6 +50,7 @@
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -59,18 +60,17 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=brect&repo=hangmanGame&theme=light"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=MANOLOS-BR&repo=app-livin-other&theme=light"
     />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=brect&repo=cursoSwift&theme=light"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=MANOLOS-BR&repo=api-livinother&theme=light"
     />
   </a>
 </p>
-
 
 <div align="center">
 
